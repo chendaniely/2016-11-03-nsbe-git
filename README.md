@@ -6,3 +6,8 @@ This is my third edit to the README file
 
 # This is a h1 header for html
 
+## this is a h2 header
+
+- bullet 1
+- bullet 2
+
